@@ -26,5 +26,6 @@ Here are a few things about me:
   Python, SQL (Postgre), Tableau (or Power BI), Microsoft Office Product (include Microsoft Excel)
   
 - 👯 Here's a preview of my hands-on experience:
+  See the project [here](https://github.com/hhashifa-port/Hands-On-Experience-in-Data-Science.git)
   
 - 📫 Feel free to reach me via mail: hhashifa@gmail.com 
