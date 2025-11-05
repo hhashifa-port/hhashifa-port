@@ -27,9 +27,7 @@ Here are a few things about me:
   
 - 📫 Feel free to reach me via mail: hhashifa@gmail.com
 
-- 👯 Here’s a summary of my hands-on experience: <br>
-
-The projects I worked on while learning data science. There are still many things that could be improved, so I’ve added some notes for future improvements.
+- 👯 Here’s a summary of my hands-on experience; the projects I worked on while learning data science. There are still many things that could be improved, so I’ve added some notes for future improvements.
 
 |Project|Goals|Area|Libraries Used|Project Description|Notes|
 |-------|-----|----|--------------|-------------------|-----|
