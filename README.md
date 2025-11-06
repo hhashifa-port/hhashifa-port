@@ -20,7 +20,7 @@ I'm Hasna Hashifa! I’m a Mathematics graduate with a deep passion for Data Sci
 Here are a few things about me:
 
 - 🌱 Areas I'm currently exploring are: <br>
-  Data Wrangling (or Cleaning), Exploratory Data Analysis, Statistical Analysis, Data Visualization, Machine Learning Modeling (focused on supervised and unsupervised learning; currently exploring NLP and machine learning applied to unstructured data), Model Evaluation and Hyperparameter Tuning.
+  Data Wrangling (and Cleaning), Exploratory Data Analysis, Statistical Analysis, Data Visualization, Machine Learning Modeling (training with hyperparameter tuning and predicting, focused on supervised and unsupervised learning). I'm recently studying about machine learning applied to unstructured data such as NLP.
   
 - 🔭 Tools I often work with are: <br>
   Python, SQL (Postgre), Tableau (or Power BI), Microsoft Office Product (include Microsoft Excel).
